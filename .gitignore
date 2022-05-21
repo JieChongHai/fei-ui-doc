@@ -1,0 +1,22 @@
+# node modules
+node_modules
+
+# MacOS desktop services store
+.DS_Store
+
+# Logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# Editors
+.idea
+
+# VuePress temp directory
+.temp
+
+# vuepress build output
+.vuepress/dist
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
