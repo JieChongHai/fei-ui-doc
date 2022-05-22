@@ -12,6 +12,6 @@
     "vuepress": "^1.9.7"
   },
   "dependencies": {
-    "feifei-ui": "^0.1.0"
+    "feifei-ui": "^0.2.0"
   }
 }
