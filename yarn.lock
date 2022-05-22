@@ -2714,7 +2714,7 @@ core-js-compat@^3.21.0, core-js-compat@^3.22.1, core-js-compat@^3.6.5:
     browserslist "^4.20.3"
     semver "7.0.0"
 
-core-js@^3.6.4, core-js@^3.6.5:
+core-js@^3.6.4, core-js@^3.6.5, core-js@^3.8.3:
   version "3.22.5"
   resolved "https://registry.npmmirror.com/core-js/-/core-js-3.22.5.tgz#a5f5a58e663d5c0ebb4e680cd7be37536fb2a9cf"
   integrity sha512-VP/xYuvJ0MJWRAobcmQ8F2H6Bsn+s7zqAAjFaHGBMc5AQm7zaelhD1LGduFn2EehEcQcU+br6t+fwbpQ5d1ZWA==
@@ -3784,6 +3784,14 @@ faye-websocket@^0.11.3, faye-websocket@^0.11.4:
   integrity sha512-CzbClwlXAuiRQAlUyfqPgvPoNKTckTPGfwZV4ZdAhVcP2lh9KUxJg2b5GkE7XbjKQ3YJnQ9z6D9ntLAlB+tP8g==
   dependencies:
     websocket-driver ">=0.5.1"
+
+feifei-ui@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.npmmirror.com/feifei-ui/-/feifei-ui-0.1.0.tgz#1d6fed68c5db196ddf3de97a603d299564b22726"
+  integrity sha512-hUEtVctONOrHgP1B2EpIyBTxUgbIc/cPuIIn/eSP22p0QkfvLYIWwqJzvn+B2ymjrl+e/HxQ1Gq/raVk9gmgFA==
+  dependencies:
+    core-js "^3.8.3"
+    vue "^2.6.14"
 
 figgy-pudding@^3.5.1:
   version "3.5.2"
@@ -8107,7 +8115,7 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npmmirror.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
-vue@^2.6.10:
+vue@^2.6.10, vue@^2.6.14:
   version "2.6.14"
   resolved "https://registry.npmmirror.com/vue/-/vue-2.6.14.tgz#e51aa5250250d569a3fbad3a8a5a687d6036e235"
   integrity sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ==
